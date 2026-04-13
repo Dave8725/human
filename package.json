@@ -74,8 +74,8 @@
     "tensorflow"
   ],
   "devDependencies": {
-    "@html-eslint/eslint-plugin": "^0.46.1",
-    "@html-eslint/parser": "^0.46.0",
+    "@html-eslint/eslint-plugin": "^0.59.0",
+    "@html-eslint/parser": "^0.59.0",
     "@microsoft/api-extractor": "^7.52.11",
     "@tensorflow/tfjs-backend-cpu": "^4.22.0",
     "@tensorflow/tfjs-backend-wasm": "^4.22.0",
